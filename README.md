@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AjushNitta
-- 👀 I’m interested in learning Ruby and Javascript
-- 🌱 I’m currently learning with the help of LeWagon documentations
+- 👀 Investing time into learning the ins and outs of JavaScript and Ruby
+
 
 
 <!---
